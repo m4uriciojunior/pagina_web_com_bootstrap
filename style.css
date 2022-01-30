@@ -1,0 +1,31 @@
+.container-fluid {
+    background-color: rgba(0, 0, 0, 0.664);
+}
+
+.quem-somos {
+    background-color: rgb(122, 122, 122);
+    color: azure;
+}
+
+.margin {
+    padding-top: 10px;
+    padding-bottom: 50px;
+}
+
+.tituloquemsomos {
+    margin: 0, 0, 10, 0;
+}
+
+.tituloservicos {
+    color: azure;
+    font-size: 30px;
+    margin-bottom: 50px;
+}
+
+.parceiros {
+    color: white;
+}
+
+.nav-link {
+    font-size: 20px;
+}
